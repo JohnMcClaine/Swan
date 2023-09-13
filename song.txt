@@ -37,4 +37,8 @@ There I am, up on the stage
 Here I go playin' the star again
 There I go, turn the page
 
+<<<<<<< HEAD
 >>>>>>> 4cbccb14d6e71070326e98b8844d365546389e9a
+=======
+Metallica - Garage Inc. (1998) 
+>>>>>>> 49f92d76c9b70c1675a894c70a2fa34320a8c6bf
