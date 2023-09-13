@@ -35,8 +35,3 @@ There I am, up on the stage
 Here I go playin' the star again
 There I go, turn the page
 
-<<<<<<< HEAD
-James Hatfield song
-=======
-AND JUMP IN THE FIRE WITH US BABY
->>>>>>> 33216993cc9cfe01db2738f87b09c4904fbb44ca
